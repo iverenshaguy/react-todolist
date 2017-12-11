@@ -1,2 +1,4 @@
 # react-todolist
-Learning React with a TodoList
+
+Learning React with a TodoList using an ejected Create-React-App and template
+from Bootswatch.com
